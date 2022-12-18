@@ -1,0 +1,17 @@
+.layout {
+  .ant-layout-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .layout-title {
+    font-size: 28px;
+    color: #FFFFFF;
+  }
+}
+.note-content{
+    width: 100%;
+    height: calc(100vh - 64px);
+    padding: 32px;
+}
